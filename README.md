@@ -11,8 +11,8 @@
 # Installation
 Type these on `cmd`, optional: `npm i node-gyp`
 ```
-git clone https://github.com/Nurutomo/nbot-wa.git
-cd nbot-wa
+git clone https://github.com/sahilteamx/Ash-Bot-2
+cd Ash-Bot-2
 npm i
 ```
 # Starting
